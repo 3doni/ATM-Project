@@ -1,0 +1,15 @@
+C:\Users\Edon\Desktop\atmproject\atmproject\bin\Debug\net6.0\atmproject.exe
+C:\Users\Edon\Desktop\atmproject\atmproject\bin\Debug\net6.0\atmproject.deps.json
+C:\Users\Edon\Desktop\atmproject\atmproject\bin\Debug\net6.0\atmproject.runtimeconfig.json
+C:\Users\Edon\Desktop\atmproject\atmproject\bin\Debug\net6.0\atmproject.dll
+C:\Users\Edon\Desktop\atmproject\atmproject\bin\Debug\net6.0\atmproject.pdb
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.csproj.AssemblyReference.cache
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.AssemblyInfoInputs.cache
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.AssemblyInfo.cs
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.csproj.CoreCompileInputs.cache
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.dll
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\refint\atmproject.dll
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.pdb
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\atmproject.genruntimeconfig.cache
+C:\Users\Edon\Desktop\atmproject\atmproject\obj\Debug\net6.0\ref\atmproject.dll
